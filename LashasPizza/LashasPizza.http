@@ -1,0 +1,6 @@
+@LashasPizza_HostAddress = http://localhost:5240
+
+GET {{LashasPizza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
